@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2018-01-19 15:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2017-10-28 11:57:27 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-10-28 01:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2018-01-20 02:08:42 +0000"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-28 01:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-01-20 02:08:42 +0000"
     },
     "done": true
   },
@@ -648,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-01-20 02:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2017-10-28 01:26:50 +0000"
@@ -816,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2018-01-20 02:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-01-14 17:50:52 +0000"
@@ -904,6 +934,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2017-11-16 16:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2018-01-20 02:08:42 +0000"
     },
     "done": true
   },
@@ -1000,6 +1036,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-01-17 04:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-01-19 16:04:10 +0000"
     },
     "done": true
   },
@@ -1315,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-01-20 02:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2017-10-28 01:06:58 +0000"
@@ -1434,10 +1482,13 @@
       "forest": "2017-10-28 01:06:01 +0000",
       "swampland": "2017-10-28 01:14:43 +0000",
       "birch_forest": "2017-10-28 01:06:13 +0000",
+      "deep_ocean": "2018-01-20 02:54:44 +0000",
       "beaches": "2017-10-28 01:17:16 +0000",
       "extreme_hills_with_trees": "2017-11-18 06:30:35 +0000",
+      "desert_hills": "2018-01-20 02:04:17 +0000",
       "forest_hills": "2017-11-15 13:43:13 +0000",
       "plains": "2017-10-28 01:05:08 +0000",
+      "taiga": "2018-01-20 01:58:10 +0000",
       "birch_forest_hills": "2017-10-28 01:22:09 +0000",
       "ocean": "2018-01-16 05:11:44 +0000",
       "extreme_hills": "2017-10-28 01:22:50 +0000",

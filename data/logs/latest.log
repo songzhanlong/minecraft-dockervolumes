@@ -1,68 +1,180 @@
-[08:15:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[08:15:03] [Server thread/INFO]: Loading properties
-[08:15:03] [Server thread/INFO]: Default game type: SURVIVAL
-[08:15:03] [Server thread/INFO]: Generating keypair
-[08:15:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:15:03] [Server thread/INFO]: Using epoll channel type
-[08:15:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:15:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:15:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:15:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:15:04] [Server thread/INFO]: Preparing level "world"
-[08:15:04] [Server thread/INFO]: Loaded 488 advancements
-[08:15:04] [Server thread/INFO]: Preparing start region for level 0
-[08:15:06] [Server thread/INFO]: Preparing spawn area: 0%
-[08:15:07] [Server thread/INFO]: Preparing spawn area: 12%
-[08:15:08] [Server thread/INFO]: Preparing spawn area: 36%
-[08:15:09] [Server thread/INFO]: Preparing spawn area: 73%
-[08:15:10] [Server thread/INFO]: Preparing spawn area: 97%
-[08:15:10] [Server thread/INFO]: Done (6.154s)! For help, type "help" or "?"
-[08:15:55] [Server thread/INFO]: songzhanlong[/172.17.0.1:56328] logged in with entity id 154 at (84.69593069705205, 92.0, -300.32419802266185)
-[08:15:55] [Server thread/INFO]: songzhanlong joined the game
-[08:16:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5849ms behind, skipping 116 tick(s)
-[08:16:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16495ms behind, skipping 329 tick(s)
-[08:17:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3055ms behind, skipping 61 tick(s)
-[08:17:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4712ms behind, skipping 94 tick(s)
-[08:18:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3192ms behind, skipping 63 tick(s)
-[08:19:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2196ms behind, skipping 43 tick(s)
-[08:21:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6559ms behind, skipping 131 tick(s)
-[08:22:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
-[08:23:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3014ms behind, skipping 60 tick(s)
-[08:24:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2314ms behind, skipping 46 tick(s)
-[08:25:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
-[08:26:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2098ms behind, skipping 41 tick(s)
-[08:27:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3016ms behind, skipping 60 tick(s)
-[08:28:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
-[08:32:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2646ms behind, skipping 52 tick(s)
-[08:34:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2411ms behind, skipping 48 tick(s)
-[08:35:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
-[08:35:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2055ms behind, skipping 41 tick(s)
-[08:36:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2286ms behind, skipping 45 tick(s)
-[08:37:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2291ms behind, skipping 45 tick(s)
-[08:38:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2333ms behind, skipping 46 tick(s)
-[08:39:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
-[08:39:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2098ms behind, skipping 41 tick(s)
-[08:40:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2376ms behind, skipping 47 tick(s)
-[08:41:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2139ms behind, skipping 42 tick(s)
-[08:42:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
-[08:45:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2150ms behind, skipping 43 tick(s)
-[08:45:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2178ms behind, skipping 43 tick(s)
-[08:46:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2731ms behind, skipping 54 tick(s)
-[08:47:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2022ms behind, skipping 40 tick(s)
-[08:48:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2656ms behind, skipping 53 tick(s)
-[08:49:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2427ms behind, skipping 48 tick(s)
-[08:50:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2305ms behind, skipping 46 tick(s)
-[08:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
-[08:52:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2723ms behind, skipping 54 tick(s)
-[08:53:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2085ms behind, skipping 41 tick(s)
-[08:54:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2294ms behind, skipping 45 tick(s)
-[08:54:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2369ms behind, skipping 47 tick(s)
-[08:55:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2376ms behind, skipping 47 tick(s)
-[08:56:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
-[08:57:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
-[08:57:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2245ms behind, skipping 44 tick(s)
-[08:58:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2379ms behind, skipping 47 tick(s)
-[08:59:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2163ms behind, skipping 43 tick(s)
-[08:59:37] [Server thread/INFO]: songzhanlong lost connection: Disconnected
-[08:59:37] [Server thread/INFO]: songzhanlong left the game
-[08:59:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3203ms behind, skipping 64 tick(s)
+[11:49:25] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:49:25] [Server thread/INFO]: Loading properties
+[11:49:25] [Server thread/INFO]: Default game type: SURVIVAL
+[11:49:25] [Server thread/INFO]: Generating keypair
+[11:49:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:49:26] [Server thread/INFO]: Using epoll channel type
+[11:49:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:49:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:49:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:49:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:49:26] [Server thread/INFO]: Preparing level "world"
+[11:49:28] [Server thread/INFO]: Loaded 488 advancements
+[11:49:29] [Server thread/INFO]: Preparing start region for level 0
+[11:49:30] [Server thread/INFO]: Preparing spawn area: 0%
+[11:49:31] [Server thread/INFO]: Preparing spawn area: 12%
+[11:49:32] [Server thread/INFO]: Preparing spawn area: 24%
+[11:49:33] [Server thread/INFO]: Preparing spawn area: 42%
+[11:49:34] [Server thread/INFO]: Preparing spawn area: 58%
+[11:49:35] [Server thread/INFO]: Preparing spawn area: 77%
+[11:49:36] [Server thread/INFO]: Done (9.692s)! For help, type "help" or "?"
+[11:50:00] [Server thread/INFO]: songzhanlong[/172.17.0.1:50658] logged in with entity id 249 at (58.222204363506634, 83.0, 94.10521632729598)
+[11:50:00] [Server thread/INFO]: songzhanlong joined the game
+[11:50:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3750ms behind, skipping 75 tick(s)
+[11:50:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4273ms behind, skipping 85 tick(s)
+[11:54:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2717ms behind, skipping 54 tick(s)
+[11:54:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2060ms behind, skipping 41 tick(s)
+[11:55:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2348ms behind, skipping 46 tick(s)
+[11:56:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3037ms behind, skipping 60 tick(s)
+[11:57:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3848ms behind, skipping 76 tick(s)
+[11:58:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2235ms behind, skipping 44 tick(s)
+[11:59:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[12:00:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2327ms behind, skipping 46 tick(s)
+[12:01:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2628ms behind, skipping 52 tick(s)
+[12:01:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2392ms behind, skipping 47 tick(s)
+[12:02:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
+[12:03:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4891ms behind, skipping 97 tick(s)
+[12:04:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2040ms behind, skipping 40 tick(s)
+[12:06:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3795ms behind, skipping 75 tick(s)
+[12:07:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[12:08:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[12:09:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3237ms behind, skipping 64 tick(s)
+[12:10:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2173ms behind, skipping 43 tick(s)
+[12:11:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[12:12:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[12:13:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[12:14:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2304ms behind, skipping 46 tick(s)
+[12:16:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[12:18:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
+[12:21:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2003ms behind, skipping 40 tick(s)
+[12:22:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2098ms behind, skipping 41 tick(s)
+[12:23:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2341ms behind, skipping 46 tick(s)
+[12:24:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2364ms behind, skipping 47 tick(s)
+[12:25:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[12:27:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2145ms behind, skipping 42 tick(s)
+[12:29:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
+[12:30:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
+[12:31:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2284ms behind, skipping 45 tick(s)
+[12:32:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2510ms behind, skipping 50 tick(s)
+[12:33:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2322ms behind, skipping 46 tick(s)
+[12:34:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2582ms behind, skipping 51 tick(s)
+[12:35:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[12:36:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[12:37:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[12:38:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2303ms behind, skipping 46 tick(s)
+[12:38:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2273ms behind, skipping 45 tick(s)
+[12:40:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2642ms behind, skipping 52 tick(s)
+[12:41:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2173ms behind, skipping 43 tick(s)
+[12:42:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2248ms behind, skipping 44 tick(s)
+[12:43:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2463ms behind, skipping 49 tick(s)
+[12:44:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2095ms behind, skipping 41 tick(s)
+[12:44:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2458ms behind, skipping 49 tick(s)
+[12:45:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3905ms behind, skipping 78 tick(s)
+[12:46:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
+[12:47:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2506ms behind, skipping 50 tick(s)
+[12:47:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2468ms behind, skipping 49 tick(s)
+[12:48:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3012ms behind, skipping 60 tick(s)
+[12:49:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2238ms behind, skipping 44 tick(s)
+[12:50:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2837ms behind, skipping 56 tick(s)
+[12:50:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2174ms behind, skipping 43 tick(s)
+[12:51:39] [Server thread/WARN]: songzhanlong moved too quickly! 1.0721466693874788,1.0,9.993787078991886
+[12:51:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4105ms behind, skipping 82 tick(s)
+[12:52:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2451ms behind, skipping 49 tick(s)
+[12:53:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2274ms behind, skipping 45 tick(s)
+[12:53:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3534ms behind, skipping 70 tick(s)
+[12:54:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
+[12:55:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2097ms behind, skipping 41 tick(s)
+[12:56:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2145ms behind, skipping 42 tick(s)
+[12:57:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
+[12:58:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2168ms behind, skipping 43 tick(s)
+[12:59:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2722ms behind, skipping 54 tick(s)
+[12:59:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2358ms behind, skipping 47 tick(s)
+[13:01:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2488ms behind, skipping 49 tick(s)
+[13:02:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2467ms behind, skipping 49 tick(s)
+[13:03:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2455ms behind, skipping 49 tick(s)
+[13:03:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
+[13:04:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2382ms behind, skipping 47 tick(s)
+[13:05:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[13:06:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2419ms behind, skipping 48 tick(s)
+[13:06:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2218ms behind, skipping 44 tick(s)
+[13:08:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7287ms behind, skipping 145 tick(s)
+[13:15:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
+[13:16:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2442ms behind, skipping 48 tick(s)
+[13:17:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2543ms behind, skipping 50 tick(s)
+[13:18:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
+[13:18:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
+[13:19:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[13:20:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2625ms behind, skipping 52 tick(s)
+[13:21:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2417ms behind, skipping 48 tick(s)
+[13:22:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2182ms behind, skipping 43 tick(s)
+[13:24:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2315ms behind, skipping 46 tick(s)
+[13:25:40] [Server thread/WARN]: songzhanlong moved too quickly! -5.145463562592884,0.0,8.619224953006437
+[13:25:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2090ms behind, skipping 41 tick(s)
+[13:26:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
+[13:27:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2750ms behind, skipping 55 tick(s)
+[13:27:11] [Server thread/WARN]: songzhanlong moved too quickly! -7.078798658243755,-7.078400001525878,-1.6860885768294032
+[13:27:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2238ms behind, skipping 44 tick(s)
+[13:28:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2652ms behind, skipping 53 tick(s)
+[13:29:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2359ms behind, skipping 47 tick(s)
+[13:30:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2881ms behind, skipping 57 tick(s)
+[13:30:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3010ms behind, skipping 60 tick(s)
+[13:31:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2984ms behind, skipping 59 tick(s)
+[13:32:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2538ms behind, skipping 50 tick(s)
+[13:33:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[13:34:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
+[13:34:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3082ms behind, skipping 61 tick(s)
+[13:35:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3213ms behind, skipping 64 tick(s)
+[13:36:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2274ms behind, skipping 45 tick(s)
+[13:37:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2553ms behind, skipping 51 tick(s)
+[13:37:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2530ms behind, skipping 50 tick(s)
+[13:38:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2720ms behind, skipping 54 tick(s)
+[13:39:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
+[13:40:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2695ms behind, skipping 53 tick(s)
+[13:40:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3496ms behind, skipping 69 tick(s)
+[13:41:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2757ms behind, skipping 55 tick(s)
+[13:42:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2948ms behind, skipping 58 tick(s)
+[13:43:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2744ms behind, skipping 54 tick(s)
+[13:43:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2381ms behind, skipping 47 tick(s)
+[13:44:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[13:45:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2278ms behind, skipping 45 tick(s)
+[13:46:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2322ms behind, skipping 46 tick(s)
+[13:46:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3151ms behind, skipping 63 tick(s)
+[13:47:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4002ms behind, skipping 80 tick(s)
+[13:48:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2700ms behind, skipping 54 tick(s)
+[13:49:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2919ms behind, skipping 58 tick(s)
+[13:50:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2134ms behind, skipping 42 tick(s)
+[13:50:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2199ms behind, skipping 43 tick(s)
+[13:51:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
+[13:52:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3043ms behind, skipping 60 tick(s)
+[13:53:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2523ms behind, skipping 50 tick(s)
+[13:53:52] [Server thread/WARN]: songzhanlong moved too quickly! 9.976570789897318,-1.0,-0.28619693046431394
+[13:53:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4330ms behind, skipping 86 tick(s)
+[13:54:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2950ms behind, skipping 59 tick(s)
+[13:55:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2420ms behind, skipping 48 tick(s)
+[13:56:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2574ms behind, skipping 51 tick(s)
+[13:56:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[13:57:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2580ms behind, skipping 51 tick(s)
+[13:58:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2320ms behind, skipping 46 tick(s)
+[13:59:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2563ms behind, skipping 51 tick(s)
+[13:59:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
+[14:00:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2214ms behind, skipping 44 tick(s)
+[14:01:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2762ms behind, skipping 55 tick(s)
+[14:02:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2261ms behind, skipping 45 tick(s)
+[14:03:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2389ms behind, skipping 47 tick(s)
+[14:04:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2139ms behind, skipping 42 tick(s)
+[14:05:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[14:05:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2639ms behind, skipping 52 tick(s)
+[14:06:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2228ms behind, skipping 44 tick(s)
+[14:07:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
+[14:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2316ms behind, skipping 46 tick(s)
+[14:09:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2613ms behind, skipping 52 tick(s)
+[14:10:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2197ms behind, skipping 43 tick(s)
+[14:11:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[14:12:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2560ms behind, skipping 51 tick(s)
+[14:12:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
+[14:13:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[14:14:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31644ms behind, skipping 632 tick(s)
+[14:14:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[14:15:30] [Server thread/INFO]: songzhanlong lost connection: Disconnected
+[14:15:30] [Server thread/INFO]: songzhanlong left the game
+[14:15:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5313ms behind, skipping 106 tick(s)
